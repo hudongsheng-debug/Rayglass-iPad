@@ -1,8 +1,8 @@
 # Rayglass Privacy Policy
 
-Effective date: [TO COMPLETE: effective date]
-Developer / operator: [TO COMPLETE: public name]
-Privacy contact: [TO COMPLETE: support email]
+
+Developer / operator: Dongsheng Hu
+Privacy contact: hudongsheng356@gmail.com
 
 This policy applies to Rayglass for Mac and Rayglass iPad. We respect your control over your optical project files and personal information.
 
@@ -50,4 +50,4 @@ If app features or data practices change, we will update this policy and its eff
 
 ## 10. Contact Us
 
-For questions about this policy or requests concerning personal information in support communications, contact: [TO COMPLETE: support email].
+For questions about this policy or requests concerning personal information in support communications, contact: hudongsheng356@gmail.com.
