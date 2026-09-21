@@ -6,8 +6,8 @@ Rayglass provides local optical modeling, ray tracing, and analysis. Start from 
 
 ## Contact
 
-Developer / operator: [TO COMPLETE: public name]
-Support email: [TO COMPLETE: support email]
+Developer / operator: Dongsheng Hu
+Support email: hudongsheng356@gmail.com
 
 When reporting an issue, include the app version, operating system, device model, steps to reproduce, and expected and actual results. If helpful, attach a screenshot or minimal example project with sensitive information removed. Do not send passwords, payment details, or confidential designs you are not authorized to share.
 
@@ -76,7 +76,3 @@ They share the same origin for their calculation models, with interfaces adapted
 ## Model Limits
 
 Sequential analysis does not perform pupil aiming at arbitrary internal stops. Diffraction uses a restricted paraxial scalar model. Optimization is bounded local search, not a guarantee of a global optimum. Tolerance perturbations are independent and uniform. Basic non-sequential analysis excludes general CAD, scattering, and nested media. Coatings use an independent lossless dielectric model and are not coupled to surface tracing. Manufacturing and consequential engineering decisions require independent benchmarks and measurements.
-
-## Privacy
-
-Privacy policy: [TO COMPLETE: public privacy policy URL]
