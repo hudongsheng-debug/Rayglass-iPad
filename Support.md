@@ -1,6 +1,6 @@
 # Rayglass Support
 
-For Rayglass on Mac and Rayglass iPad.
+For Rayglass on Mac and Rayglass Mobile.
 
 Rayglass provides local optical modeling, ray tracing, and analysis. Start from an example, edit a prescription, compare results, and save your project or export plots and data.
 
